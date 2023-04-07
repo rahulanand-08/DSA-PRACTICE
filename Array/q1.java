@@ -1,5 +1,5 @@
 package priyam;
-
+//gg
 public class q2 {
 	
 	
